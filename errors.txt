@@ -1,0 +1,14 @@
+errors in pokemon.csv
+data cleaned manually in excell
+
+Line 37: clefable
+    information after id and name was one cell to the right of where it was supposed to be
+Line 45: gloom
+    all information one cell to right of where it was supposed to be
+Line 74: tentacool
+    information after id and name was one cell to the right of where it was supposed to be
+Line 864: perrserker
+    all information one cell to right of where it was supposed to be
+Line 1086: morpeko-hangry
+    information after id and name was one cell to the right of where it was supposed to be
+    hangry should not be in its own cell, it should be hyphenated with the pokemon's name
